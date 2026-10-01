@@ -1,0 +1,6 @@
+{
+  "name": "CodeCraft - AI Coding Error Solver",
+  "description": "Decode Errors. Build Solutions. AI-powered programming error debugger with syntax analysis, root-cause explanations, step-by-step fixes, and verified corrected code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
