@@ -142,5 +142,7 @@ npm run start
 
 ---
 
-## 📄 License
-Apache-2.0 License. Developed with Google AI Studio.
+📄 License
+
+This project is developed as a college project.
+
